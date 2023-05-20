@@ -1,6 +1,6 @@
 h1 {
     color: aliceblue;
-    text-align: center;
+    text-align: right;
     animation-name: moveInLeft;
     animation-duration: 1s;
   }
